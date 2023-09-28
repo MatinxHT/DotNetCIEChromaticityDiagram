@@ -5,8 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CIEChromaticityDiagram"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="CIEChromaticityDiagram" Height="450" Width="800">
+    <DockPanel>
+        <DockPanel Width="300" DockPanel.Dock="Left">
+            <DockPanel Height="180" DockPanel.Dock="Top">
+                <GroupBox Header="Add Point">
+                    
+                </GroupBox>
+            </DockPanel>
+            <DockPanel DockPanel.Dock="Top">
+                <GroupBox Header="Point Grid">
+                    
+                </GroupBox>
+            </DockPanel>
 
-    </Grid>
+        </DockPanel>
+        <DockPanel DockPanel.Dock="Left">
+            <GroupBox Header="View">
+                
+            </GroupBox>
+        </DockPanel>
+    </DockPanel>
 </Window>
