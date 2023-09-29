@@ -10,7 +10,13 @@
         <DockPanel Width="300" DockPanel.Dock="Left">
             <DockPanel Height="180" DockPanel.Dock="Top">
                 <GroupBox Header="Add Point">
-                    
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="120"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Button Content="Add a Point" Width="120" Height="25" Grid.Row="1" />
+                    </Grid>
                 </GroupBox>
             </DockPanel>
             <DockPanel DockPanel.Dock="Top">
