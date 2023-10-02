@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Matinx\Source\Repos\DotNetCIEChromaticityDiagram\obj\Debug\net6.0-windows\
+C:\Users\Matinx\source\repos\DotNetCIEChromaticityDiagram\obj\Debug\net6.0-windows\
 CIEChromaticityDiagram
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Matinx\Source\Repos\DotNetCIEChromaticityDiagram\App.xaml
+C:\Users\Matinx\source\repos\DotNetCIEChromaticityDiagram\App.xaml
 11407045341
 
 51388532122
 197-1285833461
 MainWindow.xaml;
 
-False
+True
 

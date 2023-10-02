@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lsknGN8oBYYg4y92TutE9vNl+UgMeVv6L/pQy3MYos/HnnEpTK8rZjCpif/IGrTlb3W8IcJfEdHfEdGpNupfQ==",
+  "dgSpecHash": "WsanivkvLB6dKh3DuXtigvDxH7EX246lJqUOWgx32y5qBrzul75UTXPTbnU09pFFjn2+Le9F74nsKSkiEshaig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matinx\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
+  "projectFilePath": "C:\\Users\\Matinx\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matinx\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
     "C:\\Users\\Matinx\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
