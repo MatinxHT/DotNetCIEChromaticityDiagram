@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
+      "ChromaticityDotNet/1.0.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ChromaticityDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/ChromaticityDotNet.dll": {}
+        }
+      },
       "OxyPlot.Core/2.1.2": {
         "type": "package",
         "compile": {
@@ -57,6 +66,19 @@
     }
   },
   "libraries": {
+    "ChromaticityDotNet/1.0.0.1": {
+      "sha512": "UWP6AtkBeOOS5OAoWx8XQZSkfTFqo/rKX2uTCGwZRYU8sjP0QJ+qXqqTwGRZbc3T9IyrPab2W3artEL5EdE4MA==",
+      "type": "package",
+      "path": "chromaticitydotnet/1.0.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "chromaticitydotnet.1.0.0.1.nupkg.sha512",
+        "chromaticitydotnet.nuspec",
+        "lib/net6.0/ChromaticityDotNet.dll"
+      ]
+    },
     "OxyPlot.Core/2.1.2": {
       "sha512": "/BuPL1Wa7ZhpKA2DBe72md+S8PgIHF+UP/NsKfO9BiheXnbns1/tqS7s2MWIR1xFy5i+PWVC67KziGPY48mNgA==",
       "type": "package",
@@ -118,6 +140,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "ChromaticityDotNet >= 1.0.0.1",
       "OxyPlot.Wpf >= 2.1.2"
     ]
   },
@@ -128,11 +151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matinx\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
+      "projectUniqueName": "C:\\Users\\Matinx\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
       "projectName": "CIEChromaticityDiagram",
-      "projectPath": "C:\\Users\\Matinx\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
+      "projectPath": "C:\\Users\\Matinx\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
       "packagesPath": "C:\\Users\\Matinx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matinx\\Source\\Repos\\DotNetCIEChromaticityDiagram\\obj\\",
+      "outputPath": "C:\\Users\\Matinx\\source\\repos\\DotNetCIEChromaticityDiagram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,6 +189,10 @@
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
         "dependencies": {
+          "ChromaticityDotNet": {
+            "target": "Package",
+            "version": "[1.0.0.1, )"
+          },
           "OxyPlot.Wpf": {
             "target": "Package",
             "version": "[2.1.2, )"

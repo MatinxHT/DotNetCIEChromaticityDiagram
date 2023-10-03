@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CIEChromaticityDiagram"
+        xmlns:oxy="http://oxyplot.org/wpf"
         mc:Ignorable="d"
         Title="CIEChromaticityDiagram" Height="450" Width="800">
     <DockPanel>
@@ -28,7 +29,9 @@
         </DockPanel>
         <DockPanel DockPanel.Dock="Left">
             <GroupBox Header="View">
-                
+                <oxy:PlotView Model="{Binding CIE1931Model}">
+
+                </oxy:PlotView>
             </GroupBox>
         </DockPanel>
     </DockPanel>
