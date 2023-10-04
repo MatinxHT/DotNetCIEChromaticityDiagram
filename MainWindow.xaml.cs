@@ -177,5 +177,6 @@ namespace CIEChromaticityDiagram
                 //CIE1931Model.Legends.Add(legend);
             }
         }
+
     }
 }
