@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
-      "ChromaticityDotNet/1.0.0.2": {
+      "ChromaticityDotNet/1.0.0.3": {
         "type": "package",
         "compile": {
           "lib/net6.0/ChromaticityDotNet.dll": {}
@@ -66,15 +66,15 @@
     }
   },
   "libraries": {
-    "ChromaticityDotNet/1.0.0.2": {
-      "sha512": "2z3jDw16MdBs5G6lUvSzX/t1gmhgEQ4KANT7s/XkJIWd30DqikRERG5zlRudvQYqcRo99TM3NXtM2kzYDNTrWA==",
+    "ChromaticityDotNet/1.0.0.3": {
+      "sha512": "DHtvf/r0t1SDk6s+PUO6oekApGlPUPL13i4mBkvqAqRbLo968nIXt/uBs7jsSGzt/JbAnt4qbd3NsXCFn+QoRA==",
       "type": "package",
-      "path": "chromaticitydotnet/1.0.0.2",
+      "path": "chromaticitydotnet/1.0.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "chromaticitydotnet.1.0.0.2.nupkg.sha512",
+        "chromaticitydotnet.1.0.0.3.nupkg.sha512",
         "chromaticitydotnet.nuspec",
         "lib/net6.0/ChromaticityDotNet.dll"
       ]
@@ -140,7 +140,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "ChromaticityDotNet >= 1.0.0.2",
+      "ChromaticityDotNet >= 1.0.0.3",
       "OxyPlot.Wpf >= 2.1.2"
     ]
   },
@@ -191,7 +191,7 @@
         "dependencies": {
           "ChromaticityDotNet": {
             "target": "Package",
-            "version": "[1.0.0.2, )"
+            "version": "[1.0.0.3, )"
           },
           "OxyPlot.Wpf": {
             "target": "Package",

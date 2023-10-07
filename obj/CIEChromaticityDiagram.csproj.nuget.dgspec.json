@@ -47,7 +47,7 @@
           "dependencies": {
             "ChromaticityDotNet": {
               "target": "Package",
-              "version": "[1.0.0.2, )"
+              "version": "[1.0.0.3, )"
             },
             "OxyPlot.Wpf": {
               "target": "Package",
