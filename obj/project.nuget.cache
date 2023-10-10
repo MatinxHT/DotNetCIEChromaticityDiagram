@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4hiD9TKCqn0/r/cEtSV/38o/msqej84EScL1u78Uh0h+UlVqQfK/1LjBso0m+HS1iQDlBpybiUdyw/VZARqerA==",
+  "dgSpecHash": "NTvn0Qbo91qmAYZA/zAxVAhWR9LVB6UU9Kbg9paRRNJwZYLBwekIH02OtUtzoHKaGKkqovAWm/MJB4Bg219K9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
+  "projectFilePath": "C:\\Users\\fuck\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fuck\\.nuget\\packages\\chromaticitydotnet\\1.0.1.1\\chromaticitydotnet.1.0.1.1.nupkg.sha512",
     "C:\\Users\\fuck\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",

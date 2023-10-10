@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj": {}
+    "C:\\Users\\fuck\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj": {
+    "C:\\Users\\fuck\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
+        "projectUniqueName": "C:\\Users\\fuck\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
         "projectName": "CIEChromaticityDiagram",
-        "projectPath": "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
+        "projectPath": "C:\\Users\\fuck\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
         "packagesPath": "C:\\Users\\fuck\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\obj\\",
         "projectStyle": "PackageReference",
