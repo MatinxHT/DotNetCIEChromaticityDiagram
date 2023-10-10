@@ -17,7 +17,8 @@ using OxyPlot.Axes;
 using OxyPlot.Legends;
 using OxyPlot.Series;
 using OxyPlot;
-using static ChromaticityDotNet.StandardChromaticityClass;
+using ChromaticityDotNet.Model;
+using static ChromaticityDotNet.Model.StandardChromaticityModel;
 
 namespace CIEChromaticityDiagram
 {

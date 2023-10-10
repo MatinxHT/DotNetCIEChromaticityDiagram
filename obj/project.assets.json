@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
-      "ChromaticityDotNet/1.0.0.3": {
+      "ChromaticityDotNet/1.0.1.1": {
         "type": "package",
         "compile": {
           "lib/net6.0/ChromaticityDotNet.dll": {}
@@ -66,15 +66,15 @@
     }
   },
   "libraries": {
-    "ChromaticityDotNet/1.0.0.3": {
-      "sha512": "DHtvf/r0t1SDk6s+PUO6oekApGlPUPL13i4mBkvqAqRbLo968nIXt/uBs7jsSGzt/JbAnt4qbd3NsXCFn+QoRA==",
+    "ChromaticityDotNet/1.0.1.1": {
+      "sha512": "PEn+VLb6qkeXZvBwd+Xo75PJHzjWvnQsKwziSSSlnCPmjCKvaPFSZYyda+sM9g/kTg/8Pl7hxxuoDbyVN8Jbkw==",
       "type": "package",
-      "path": "chromaticitydotnet/1.0.0.3",
+      "path": "chromaticitydotnet/1.0.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "chromaticitydotnet.1.0.0.3.nupkg.sha512",
+        "chromaticitydotnet.1.0.1.1.nupkg.sha512",
         "chromaticitydotnet.nuspec",
         "lib/net6.0/ChromaticityDotNet.dll"
       ]
@@ -140,28 +140,28 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "ChromaticityDotNet >= 1.0.0.3",
+      "ChromaticityDotNet >= 1.0.1.1",
       "OxyPlot.Wpf >= 2.1.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matinx\\.nuget\\packages\\": {},
+    "C:\\Users\\fuck\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matinx\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
+      "projectUniqueName": "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
       "projectName": "CIEChromaticityDiagram",
-      "projectPath": "C:\\Users\\Matinx\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
-      "packagesPath": "C:\\Users\\Matinx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matinx\\source\\repos\\DotNetCIEChromaticityDiagram\\obj\\",
+      "projectPath": "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
+      "packagesPath": "C:\\Users\\fuck\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Matinx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fuck\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -169,6 +169,7 @@
         "net6.0-windows"
       ],
       "sources": {
+        "C:\\MyNuGetPackages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -191,7 +192,7 @@
         "dependencies": {
           "ChromaticityDotNet": {
             "target": "Package",
-            "version": "[1.0.0.3, )"
+            "version": "[1.0.1.1, )"
           },
           "OxyPlot.Wpf": {
             "target": "Package",
