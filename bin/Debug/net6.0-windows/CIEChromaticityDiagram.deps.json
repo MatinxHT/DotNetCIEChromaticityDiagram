@@ -8,18 +8,18 @@
     ".NETCoreApp,Version=v6.0": {
       "CIEChromaticityDiagram/1.0.0": {
         "dependencies": {
-          "ChromaticityDotNet": "1.0.0.1",
+          "ChromaticityDotNet": "1.0.1.1",
           "OxyPlot.Wpf": "2.1.2"
         },
         "runtime": {
           "CIEChromaticityDiagram.dll": {}
         }
       },
-      "ChromaticityDotNet/1.0.0.1": {
+      "ChromaticityDotNet/1.0.1.1": {
         "runtime": {
           "lib/net6.0/ChromaticityDotNet.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
+            "assemblyVersion": "1.0.1.1",
+            "fileVersion": "1.0.1.1"
           }
         }
       },
@@ -62,12 +62,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ChromaticityDotNet/1.0.0.1": {
+    "ChromaticityDotNet/1.0.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-UWP6AtkBeOOS5OAoWx8XQZSkfTFqo/rKX2uTCGwZRYU8sjP0QJ+qXqqTwGRZbc3T9IyrPab2W3artEL5EdE4MA==",
-      "path": "chromaticitydotnet/1.0.0.1",
-      "hashPath": "chromaticitydotnet.1.0.0.1.nupkg.sha512"
+      "sha512": "sha512-PEn+VLb6qkeXZvBwd+Xo75PJHzjWvnQsKwziSSSlnCPmjCKvaPFSZYyda+sM9g/kTg/8Pl7hxxuoDbyVN8Jbkw==",
+      "path": "chromaticitydotnet/1.0.1.1",
+      "hashPath": "chromaticitydotnet.1.0.1.1.nupkg.sha512"
     },
     "OxyPlot.Core/2.1.2": {
       "type": "package",
