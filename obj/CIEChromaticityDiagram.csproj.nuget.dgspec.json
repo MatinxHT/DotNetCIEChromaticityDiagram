@@ -11,7 +11,7 @@
         "projectName": "CIEChromaticityDiagram",
         "projectPath": "C:\\Users\\fuck\\source\\repos\\DotNetCIEChromaticityDiagram\\CIEChromaticityDiagram.csproj",
         "packagesPath": "C:\\Users\\fuck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fuck\\Source\\Repos\\DotNetCIEChromaticityDiagram\\obj\\",
+        "outputPath": "C:\\Users\\fuck\\source\\repos\\DotNetCIEChromaticityDiagram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
